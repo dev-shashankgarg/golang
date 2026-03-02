@@ -1,2 +1,2 @@
 # golang
-Sandbox for Learning and Exploring Golang
+Sandbox for learning and exploring Golang
