@@ -1,0 +1,371 @@
+[
+{
+  "name": "Alice Johnson",
+  "books": [
+    {"author": "George Orwell", "title": "1984"},
+    {"author": "Harper Lee", "title": "To Kill a Mockingbird"},
+    {"author": "J.R.R. Tolkien", "title": "The Hobbit"}
+  ]
+},
+{
+  "name": "Brian Smith",
+  "books": [
+    {"author": "George Orwell", "title": "Animal Farm"},
+    {"author": "J.R.R. Tolkien", "title": "The Hobbit"},
+    {"author": "Frank Herbert", "title": "Dune"}
+  ]
+},
+{
+  "name": "Carla Gomez",
+  "books": [
+    {"author": "Jane Austen", "title": "Pride and Prejudice"},
+    {"author": "Harper Lee", "title": "To Kill a Mockingbird"},
+    {"author": "George Orwell", "title": "1984"}
+  ]
+},
+{
+  "name": "Daniel Wu",
+  "books": [
+    {"author": "Frank Herbert", "title": "Dune"},
+    {"author": "Isaac Asimov", "title": "Foundation"},
+    {"author": "Arthur C. Clarke", "title": "2001: A Space Odyssey"}
+  ]
+},
+{
+  "name": "Eva Müller",
+  "books": [
+    {"author": "Jane Austen", "title": "Emma"},
+    {"author": "Jane Austen", "title": "Pride and Prejudice"},
+    {"author": "Charlotte Brontë", "title": "Jane Eyre"}
+  ]
+},
+{
+  "name": "Farhan Ali",
+  "books": [
+    {"author": "J.K. Rowling", "title": "Harry Potter and the Sorcerer's Stone"},
+    {"author": "J.K. Rowling", "title": "Harry Potter and the Chamber of Secrets"},
+    {"author": "J.R.R. Tolkien", "title": "The Hobbit"}
+  ]
+},
+{
+  "name": "Grace Kim",
+  "books": [
+    {"author": "George Orwell", "title": "1984"},
+    {"author": "Frank Herbert", "title": "Dune"},
+    {"author": "Isaac Asimov", "title": "Foundation"}
+  ]
+},
+{
+  "name": "Hiro Tanaka",
+  "books": [
+    {"author": "Haruki Murakami", "title": "Kafka on the Shore"},
+    {"author": "Haruki Murakami", "title": "Norwegian Wood"},
+    {"author": "George Orwell", "title": "1984"}
+  ]
+},
+{
+  "name": "Isabella Rossi",
+  "books": [
+    {"author": "Umberto Eco", "title": "The Name of the Rose"},
+    {"author": "Jane Austen", "title": "Pride and Prejudice"},
+    {"author": "Charlotte Brontë", "title": "Jane Eyre"}
+  ]
+},
+{
+  "name": "Jack Wilson",
+  "books": [
+    {"author": "Stephen King", "title": "The Shining"},
+    {"author": "Stephen King", "title": "It"},
+    {"author": "George Orwell", "title": "Animal Farm"}
+  ]
+},
+{
+  "name": "Kavya Iyer",
+  "books": [
+    {"author": "Arundhati Roy", "title": "The God of Small Things"},
+    {"author": "Salman Rushdie", "title": "Midnight's Children"},
+    {"author": "Harper Lee", "title": "To Kill a Mockingbird"}
+  ]
+},
+{
+  "name": "Liam O'Connor",
+  "books": [
+    {"author": "James Joyce", "title": "Ulysses"},
+    {"author": "George Orwell", "title": "1984"},
+    {"author": "Frank Herbert", "title": "Dune"}
+  ]
+},
+{
+  "name": "Maya Patel",
+  "books": [
+    {"author": "J.K. Rowling", "title": "Harry Potter and the Prisoner of Azkaban"},
+    {"author": "J.K. Rowling", "title": "Harry Potter and the Goblet of Fire"},
+    {"author": "J.R.R. Tolkien", "title": "The Hobbit"}
+  ]
+},
+{
+  "name": "Noah Fischer",
+  "books": [
+    {"author": "Franz Kafka", "title": "The Metamorphosis"},
+    {"author": "George Orwell", "title": "1984"},
+    {"author": "Albert Camus", "title": "The Stranger"}
+  ]
+},
+{
+  "name": "Olivia Brown",
+  "books": [
+    {"author": "Jane Austen", "title": "Emma"},
+    {"author": "Louisa May Alcott", "title": "Little Women"},
+    {"author": "Charlotte Brontë", "title": "Jane Eyre"}
+  ]
+},
+{
+  "name": "Pedro Alvarez",
+  "books": [
+    {"author": "Gabriel García Márquez", "title": "One Hundred Years of Solitude"},
+    {"author": "Jorge Luis Borges", "title": "Ficciones"},
+    {"author": "George Orwell", "title": "Animal Farm"}
+  ]
+},
+{
+  "name": "Qi Zhang",
+  "books": [
+    {"author": "Cixin Liu", "title": "The Three-Body Problem"},
+    {"author": "Isaac Asimov", "title": "Foundation"},
+    {"author": "Frank Herbert", "title": "Dune"}
+  ]
+},
+{
+  "name": "Rahul Verma",
+  "books": [
+    {"author": "Arundhati Roy", "title": "The God of Small Things"},
+    {"author": "R.K. Narayan", "title": "Malgudi Days"},
+    {"author": "George Orwell", "title": "1984"}
+  ]
+},
+{
+  "name": "Sara Ahmed",
+  "books": [
+    {"author": "Naguib Mahfouz", "title": "Palace Walk"},
+    {"author": "George Orwell", "title": "Animal Farm"},
+    {"author": "Albert Camus", "title": "The Stranger"}
+  ]
+},
+{
+  "name": "Tom Baker",
+  "books": [
+    {"author": "Arthur C. Clarke", "title": "2001: A Space Odyssey"},
+    {"author": "Isaac Asimov", "title": "Foundation"},
+    {"author": "Frank Herbert", "title": "Dune"}
+  ]
+},
+{
+  "name": "Uma Krishnan",
+  "books": [
+    {"author": "Salman Rushdie", "title": "Midnight's Children"},
+    {"author": "Arundhati Roy", "title": "The God of Small Things"},
+    {"author": "R.K. Narayan", "title": "Malgudi Days"}
+  ]
+},
+{
+  "name": "Victor Hugo Jr",
+  "books": [
+    {"author": "Victor Hugo", "title": "Les Misérables"},
+    {"author": "Alexandre Dumas", "title": "The Count of Monte Cristo"},
+    {"author": "Albert Camus", "title": "The Stranger"}
+  ]
+},
+{
+  "name": "Wang Lei",
+  "books": [
+    {"author": "Cixin Liu", "title": "The Dark Forest"},
+    {"author": "Cixin Liu", "title": "The Three-Body Problem"},
+    {"author": "Isaac Asimov", "title": "Foundation"}
+  ]
+},
+{
+  "name": "Xavier Dupont",
+  "books": [
+    {"author": "Albert Camus", "title": "The Stranger"},
+    {"author": "Victor Hugo", "title": "Les Misérables"},
+    {"author": "George Orwell", "title": "1984"}
+  ]
+},
+{
+  "name": "Yuki Sato",
+  "books": [
+    {"author": "Haruki Murakami", "title": "Kafka on the Shore"},
+    {"author": "Haruki Murakami", "title": "Norwegian Wood"},
+    {"author": "George Orwell", "title": "Animal Farm"}
+  ]
+},
+{
+  "name": "Zara Khan",
+  "books": [
+    {"author": "Paulo Coelho", "title": "The Alchemist"},
+    {"author": "Khaled Hosseini", "title": "The Kite Runner"},
+    {"author": "George Orwell", "title": "1984"}
+  ]
+},
+
+{
+  "name": "Aaron Miller",
+  "books": [
+    {"author": "Stephen King", "title": "It"},
+    {"author": "Stephen King", "title": "The Shining"},
+    {"author": "George Orwell", "title": "Animal Farm"}
+  ]
+},
+{
+  "name": "Bella Davis",
+  "books": [
+    {"author": "Jane Austen", "title": "Pride and Prejudice"},
+    {"author": "Jane Austen", "title": "Emma"},
+    {"author": "Louisa May Alcott", "title": "Little Women"}
+  ]
+},
+{
+  "name": "Carlos Mendes",
+  "books": [
+    {"author": "Gabriel García Márquez", "title": "One Hundred Years of Solitude"},
+    {"author": "Paulo Coelho", "title": "The Alchemist"},
+    {"author": "Jorge Luis Borges", "title": "Ficciones"}
+  ]
+},
+{
+  "name": "Deepak Sharma",
+  "books": [
+    {"author": "R.K. Narayan", "title": "Malgudi Days"},
+    {"author": "Arundhati Roy", "title": "The God of Small Things"},
+    {"author": "George Orwell", "title": "1984"}
+  ]
+},
+{
+  "name": "Elena Petrova",
+  "books": [
+    {"author": "Fyodor Dostoevsky", "title": "Crime and Punishment"},
+    {"author": "Leo Tolstoy", "title": "War and Peace"},
+    {"author": "George Orwell", "title": "1984"}
+  ]
+},
+{
+  "name": "Felix Schmidt",
+  "books": [
+    {"author": "Franz Kafka", "title": "The Metamorphosis"},
+    {"author": "Albert Camus", "title": "The Stranger"},
+    {"author": "George Orwell", "title": "Animal Farm"}
+  ]
+},
+{
+  "name": "Gina Lopez",
+  "books": [
+    {"author": "Isabel Allende", "title": "The House of the Spirits"},
+    {"author": "Gabriel García Márquez", "title": "One Hundred Years of Solitude"},
+    {"author": "Paulo Coelho", "title": "The Alchemist"}
+  ]
+},
+{
+  "name": "Henry Clark",
+  "books": [
+    {"author": "Isaac Asimov", "title": "Foundation"},
+    {"author": "Arthur C. Clarke", "title": "2001: A Space Odyssey"},
+    {"author": "Frank Herbert", "title": "Dune"}
+  ]
+},
+{
+  "name": "Isha Gupta",
+  "books": [
+    {"author": "Salman Rushdie", "title": "Midnight's Children"},
+    {"author": "R.K. Narayan", "title": "Malgudi Days"},
+    {"author": "Paulo Coelho", "title": "The Alchemist"}
+  ]
+},
+{
+  "name": "Jonas Berg",
+  "books": [
+    {"author": "Stieg Larsson", "title": "The Girl with the Dragon Tattoo"},
+    {"author": "George Orwell", "title": "1984"},
+    {"author": "Albert Camus", "title": "The Stranger"}
+  ]
+},
+{
+  "name": "Khalid Rahman",
+  "books": [
+    {"author": "Khaled Hosseini", "title": "The Kite Runner"},
+    {"author": "Paulo Coelho", "title": "The Alchemist"},
+    {"author": "George Orwell", "title": "Animal Farm"}
+  ]
+},
+{
+  "name": "Laura Green",
+  "books": [
+    {"author": "Louisa May Alcott", "title": "Little Women"},
+    {"author": "Jane Austen", "title": "Pride and Prejudice"},
+    {"author": "Charlotte Brontë", "title": "Jane Eyre"}
+  ]
+},
+{
+  "name": "Marco Silva",
+  "books": [
+    {"author": "Paulo Coelho", "title": "The Alchemist"},
+    {"author": "Gabriel García Márquez", "title": "One Hundred Years of Solitude"},
+    {"author": "Jorge Luis Borges", "title": "Ficciones"}
+  ]
+},
+{
+  "name": "Nina Ivanova",
+  "books": [
+    {"author": "Leo Tolstoy", "title": "War and Peace"},
+    {"author": "Fyodor Dostoevsky", "title": "Crime and Punishment"},
+    {"author": "Albert Camus", "title": "The Stranger"}
+  ]
+},
+{
+  "name": "Omar Haddad",
+  "books": [
+    {"author": "Naguib Mahfouz", "title": "Palace Walk"},
+    {"author": "Khaled Hosseini", "title": "The Kite Runner"},
+    {"author": "Paulo Coelho", "title": "The Alchemist"}
+  ]
+},
+{
+  "name": "Priya Nair",
+  "books": [
+    {"author": "Arundhati Roy", "title": "The God of Small Things"},
+    {"author": "R.K. Narayan", "title": "Malgudi Days"},
+    {"author": "George Orwell", "title": "1984"}
+  ]
+},
+{
+  "name": "Quentin Martin",
+  "books": [
+    {"author": "George Orwell", "title": "1984"},
+    {"author": "Frank Herbert", "title": "Dune"},
+    {"author": "Isaac Asimov", "title": "Foundation"}
+  ]
+},
+{
+  "name": "Rosa Delgado",
+  "books": [
+    {"author": "Isabel Allende", "title": "The House of the Spirits"},
+    {"author": "Gabriel García Márquez", "title": "One Hundred Years of Solitude"},
+    {"author": "Paulo Coelho", "title": "The Alchemist"}
+  ]
+},
+{
+  "name": "Samuel Reed",
+  "books": [
+    {"author": "Stephen King", "title": "The Shining"},
+    {"author": "Stephen King", "title": "It"},
+    {"author": "George Orwell", "title": "Animal Farm"}
+  ]
+},
+{
+  "name": "Tara Singh",
+  "books": [
+    {"author": "Salman Rushdie", "title": "Midnight's Children"},
+    {"author": "Arundhati Roy", "title": "The God of Small Things"},
+    {"author": "Paulo Coelho", "title": "The Alchemist"}
+  ]
+}
+]
